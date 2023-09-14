@@ -1,0 +1,45 @@
+kulcd "c:\c++\oopAssnmnt\" ; if ($?) { g++ lab13b.cpp -o lab13b } ; if ($?) { .\lab13b }
+kulsoom se-22064 38500
+aelia dt-22021 39500
+saira se-22062 38500
+maheer se-22056 38500
+j se09 56
+k se-0 78
+i iu-9 90
+kj uo-98 90
+i ui-87 09
+l io-09 90
+k
+j
+cd "c:\c++\oopAssnmnt\" ; if ($?) { g++ lab13b.cpp -o lab13b } ; if ($?) { .\lab13b }
+k s-0 8
+i i-9 9
+o o-0 8
+u u-7 7
+y y-9 9
+y t-8 8
+r r-8 7
+e e-9 9
+g g-9 4
+w w-0 2
+k
+k
+cd "c:\c++\oopAssnmnt\" ; if ($?) { g++ lab13b.cpp -o lab13b } ; if ($?) { .\lab13b }
+k
+g
+g
+g
+g
+g
+g
+g
+g
+cd "c:\c++\oopAssnmnt\" ; if ($?) { g++ lab13b.cpp -o lab13b } ; if ($?) { .\lab13b }
+h
+h
+h
+h
+h
+h
+cd "c:\c++\oopAssnmnt\" ; if ($?) { g++ filehandoop.cpp -o filehandoop } ; if ($?) { .\filehandoop }
+cd "c:\c++\oopAssnmnt\" ; if ($?) { g++ filehandoop.cpp -o filehandoop } ; if ($?) { .\filehandoop }
